@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+# My Project
+- [MY BIBLE portfolio](https://github.com/gimminjae/bible-service)
+- [여행을 DAMDA portfolio](https://github.com/gimminjae/mBooks_project)
+  
 <!--
 **gimminjae/gimminjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
