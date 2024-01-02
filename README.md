@@ -19,6 +19,7 @@ Java, Spring 을 주력으로 사용하며 개발에 대해 넓고 깊게 학�
 이커머스 솔루션을 보유한 회사로, 솔루션 유지보수 및 수행사 파견근무를 수행중입니다.
 - sonarqube를 활용한 솔루션 품질 개선
 - thymeleaf 기반의 back office Nuxt(Vue).js 로 마이그레이션 수행
+- 사내 도서 관리 프로젝트 [(시연영상)](https://www.youtube.com/watch?v=aRz8ms2x_k0)
 # Project
 ### Spring RoadMap
 제가 스프링 프레임워크를 공부하는 공간입니다.
