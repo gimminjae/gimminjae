@@ -1,7 +1,7 @@
 # Hi there 👋
-# Junior Backend Developer Minjjai
+# Junior Developer Minjjai
 
-안녕하세요. 주니어 백엔드 개발자 김민재입니다!
+<!-- 안녕하세요. 주니어 백엔드 개발자 김민재입니다!
 
 Java, Spring 을 주력으로 사용하며 개발에 대해 넓고 깊게 학습하려 노력하고 있습니다!
 
@@ -48,6 +48,7 @@ Java, Spring 을 주력으로 사용하며 개발에 대해 넓고 깊게 학�
 - Spring Boot
 - Spring JPA
 - thymeleaf
+-->
 <!--
 **gimminjae/gimminjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
